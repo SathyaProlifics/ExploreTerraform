@@ -1,0 +1,1 @@
+instance-name = "Sathya-ec2-server-qa"
