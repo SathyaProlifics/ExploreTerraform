@@ -7,5 +7,7 @@ project_name = ""
 # Instance type
 instance_type = ""
 
+instance-name = ""
+
 instance-ami-id = ""
 # Instance count
